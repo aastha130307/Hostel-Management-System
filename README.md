@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Vasudha - Hostel Management System (Packaged)
 This package contains:
 - migrations/01_create_schema.sql  --> Create database schema
@@ -25,3 +26,4 @@ If you want, I can now:
 - Patch your uploaded zip directly (if you upload the project files or allow me to read them).
 - Convert backend to Node/Express or Python Flask.
 - Expand frontend with forms for complaints, payments, fines.
+
