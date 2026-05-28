@@ -259,7 +259,7 @@ This project demonstrates:
 
 ---
 
-# 👨‍💻 Author
+# 👨‍💻 Aastha
 
-Developed as a Full Stack + DBMS project to demonstrate real-world hostel management system architecture, secure backend development, and production-level database-driven application design.
+Developed as a Full Stack + DBMS project to demonstrate real-world hostel management system architecture, secure backend development, and production-level database-driven application design.I built this project in my 3rd semester of my college NIT Delhi in my DBMS course.
 
